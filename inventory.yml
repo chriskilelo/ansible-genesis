@@ -1,3 +1,6 @@
-[hosts]
+[supermarket_cashiers]
 192.168.1.20
 192.168.1.30
+
+[supermarket_managers]
+192.168.2.100
